@@ -1,5 +1,5 @@
 # cifar10_image_classifier
-An image classifier built with PyTorch using a Convolutional Neural Network (CNN) on the CIFAR-10 dataset. This project covers the end-to-end process of a deep learning application, from data pre processing to performance analysis.
+An image classifier built with PyTorch using a Convolutional Neural Network (CNN) on the CIFAR-10 dataset. This project covers the end to end process of a deep learning application, from data pre processing to performance analysis.
 
 # CIFAR-10 Image Classification using PyTorch
 
@@ -25,4 +25,4 @@ This served as a hands-on introduction to fundamental Deep Learning and Computer
 
 ## Results
 
-The model achieved an accuracy of **XX%** on the test set. (Note: Replace XX with your final accuracy from the output of Cell 7)
+The model achieved an accuracy of **58%** on the test set.
